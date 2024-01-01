@@ -24,47 +24,47 @@ const horizontalItems: menu[] = [
             {
                 title: 'Market Heatmap',
                 icon: CircleIcon,
-                to: '/future/market-heatmap'
+                to: '/main/future/market-heatmap'
             },
             {
                 title: 'Sector Heatmap',
                 icon: CircleIcon,
-                to: '/future/sector-heatmap'
+                to: '/main/future/sector-heatmap'
             },
             {
                 title: 'Daywise OI IV Breakup',
                 icon: CircleIcon,
-                to: '/future/daywise-oi-iv-breakup'
+                to: '/main/future/daywise-oi-iv-breakup'
             },
             {
                 title: 'EOD Analysis',
                 icon: CircleIcon,
-                to: '/future/eod-analysis'
+                to: '/main/future/eod-analysis'
             },
             {
                 title: 'IV HV Breakup',
                 icon: CircleIcon,
-                to: '/future/iv-hv-breakup'
+                to: '/main/future/iv-hv-breakup'
             },
             {
                 title: 'High-Low Scanner',
                 icon: CircleIcon,
-                to: '/future/high-low-scanner'
+                to: '/main/future/high-low-scanner'
             },
             {
                 title: 'Indicator Scorer',
                 icon: CircleIcon,
-                to: '/future/indicator-scorer'
+                to: '/main/future/indicator-scorer'
             },
             {
                 title: 'Seasonaility',
                 icon: CircleIcon,
-                to: '/future/seasonaility'
+                to: '/main/future/seasonaility'
             },
             {
                 title: 'Reversal Indicator',
                 icon: CircleIcon,
-                to: '/future/reversal-indicator'
+                to: '/main/future/reversal-indicator'
             }
         ]
     },
@@ -75,42 +75,42 @@ const horizontalItems: menu[] = [
             {
                 title: 'Option Chain',
                 icon: CircleIcon,
-                to: '/options/option-chain'
+                to: '/main/options/option-chain'
             },
             {
                 title: 'Greek Scanner',
                 icon: CircleIcon,
-                to: '/options/greek-scanner'
+                to: '/main/options/greek-scanner'
             },
             {
                 title: 'Usual Option Activity',
                 icon: CircleIcon,
-                to: '/options/usual-option-activity'
+                to: '/main/options/usual-option-activity'
             },
             {
                 title: 'Spread Scanner',
                 icon: CircleIcon,
-                to: '/options/spread-scanner'
+                to: '/main/options/spread-scanner'
             },
             {
                 title: 'Spread Chart',
                 icon: CircleIcon,
-                to: '/options/spread-chart'
+                to: '/main/options/spread-chart'
             },
             {
                 title: 'PCR Scanner',
                 icon: CircleIcon,
-                to: '/options/pcr-scanner'
+                to: '/main/options/pcr-scanner'
             },
             {
                 title: 'Volatility Surface',
                 icon: CircleIcon,
-                to: '/options/volatility-surface'
+                to: '/main/options/volatility-surface'
             },
             {
                 title: 'Dynamic S/R Scan',
                 icon: CircleIcon,
-                to: '/options/dynamic-sr-scan'
+                to: '/main/options/dynamic-sr-scan'
             }
         ]
     },
@@ -122,12 +122,12 @@ const horizontalItems: menu[] = [
             {
                 title: 'News Aggregator',
                 icon: CircleIcon,
-                to: '/news/news-aggregator'
+                to: '/main/news/news-aggregator'
             },
             {
                 title: 'Intraday Sentiment',
                 icon: CircleIcon,
-                to: '/news/intraday-sentiment'
+                to: '/main/news/intraday-sentiment'
             }
         ]
     },
@@ -139,12 +139,12 @@ const horizontalItems: menu[] = [
             {
                 title: 'Pair Scanner',
                 icon: CircleIcon,
-                to: '/pairs/pair-scanner'
+                to: '/main/pairs/pair-scanner'
             },
             {
                 title: 'Backtester',
                 icon: CircleIcon,
-                to: '/pairs/backtester'
+                to: '/main/pairs/backtester'
             }
         ]
     },
@@ -155,28 +155,28 @@ const horizontalItems: menu[] = [
             {
                 title: 'OI Analysis',
                 icon: CircleIcon,
-                to: '/eod-participant-analysis/oi-analysis'
+                to: '/main/eod-participant-analysis/oi-analysis'
             },
             {
                 title: 'Volume Analysis',
                 icon: CircleIcon,
-                to: '/eod-participant-analysis/volume-analysis'
+                to: '/main/eod-participant-analysis/volume-analysis'
             },
             {
                 title: 'A/D Screener',
                 icon: CircleIcon,
-                to: '/price-n-volume/ad-screener'
+                to: '/main/price-n-volume/ad-screener'
             },
      
             {
                 title: 'Indices Contributors',
                 icon: CircleIcon,
-                to: '/price-n-volume/indices-contributors'
+                to: '/main/price-n-volume/indices-contributors'
             },
             {
                 title: 'Deliveries',
                 icon: CircleIcon,
-                to: '/price-n-volume/cash-deliveries'
+                to: '/main/price-n-volume/cash-deliveries'
             }
         ]
     },
@@ -187,7 +187,7 @@ const horizontalItems: menu[] = [
             {
                 title: 'Intraday Alerts',
                 icon: CircleIcon,
-                to: '/custom-screens/intraday-alerts'
+                to: '/main/custom-screens/intraday-alerts'
             }
         ]
     },
